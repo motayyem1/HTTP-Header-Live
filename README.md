@@ -2,7 +2,9 @@ This was slightly modified for chrome MV3
 Changes are in Manifest and HTTPHeaderMain.js
 
 
-Original ReadMe.md
+Original ReadMe.md:
+
+
 Hello,
 the project is shut down for the time being.
 Currently I have no time to continue here.
@@ -18,7 +20,7 @@ If you want to continue it, please let me know. Then I can link you here.
 
 # HTTP-Header-Live
 Directly download from the Firefox Addon-manager: https://addons.mozilla.org/de/firefox/addon/http-header-live/<br />
-Directly download from the Chrome Addon-manager: https://chrome.google.com/webstore/detail/http-header-live/jljeikaiehipjcfbpedmgikbbhmknpkk<br />
+Directly download from the Chrome Addon-manager: https://chrome.google.com/webstore/detail/http-header-live/jljeikaiehipjcfbpedmgikbbhmknpkk<br /> [No longer available]
 
 Google Translator English:<br />
   Open the add-on.<br />
