@@ -1,3 +1,6 @@
+This was slightly modified for chrome MV3
+Changes are in Manifest and HTTPHeaderMain.js
+Original ReadMe.md
 Hello,
 the project is shut down for the time being.
 Currently I have no time to continue here.
