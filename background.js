@@ -1,13 +1,15 @@
 ﻿
-function NewWindow() {
+
+function NewWindow(tab) {
+	console.log(tab);
 	windowscreate = chrome.windows.create({
 		height:600,
 		width:800,
 		type:"popup",
-		url:chrome.extension.getURL("HTTPHeaderMain.html")
+		url:chrome.runtime.getURL("HTTPHeaderMain.html")
     });
 }
-chrome.browserAction.onClicked.addListener(NewWindow);	
+chrome.action.onClicked.addListener(NewWindow);
 
 function handleInstalled(details) {
     browser.tabs.create({
